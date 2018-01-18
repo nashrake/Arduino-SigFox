@@ -23,12 +23,6 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**********~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### **SigFox Backend Configuration**:
-
-Refer Trello card of Board `Cracks metering`
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**********~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 ### **SigFox_Potentiometer.ino**
 
 * Code to measure the I/Os of Arduino and sending it to SigFox backend Sever.
